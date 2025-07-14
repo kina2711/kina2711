@@ -115,7 +115,7 @@ Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and yo
   />
 </p>
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo:
 
 <div align="center">
   <table>
