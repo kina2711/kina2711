@@ -43,50 +43,50 @@ Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and yo
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ### 🧑‍💻 Query & Programming Languages
 
-* **Query Languages**: SQL (Server, MySQL, PostgreSQL: Stored Procedures, Functions, Triggers)
-* **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), JavaScript
-* **Web Basics**: HTML, CSS
+* **Query Languages**: `SQL` (`SQL Server`, `MySQL`, `PostgreSQL`: `Stored Procedures`, `Functions`, `Triggers`)
+* **Programming Languages**: `Python` (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`), `JavaScript`
+* **Web Basics**: `HTML`, `CSS`, `JavaScript`
 
 ### ⚙️ Data Engineering & Workflow
 
-* **ETL & Data Ingestion**: Python scripts, Bash scripts, Google Cloud Dataflow, Apache Kafka & Kafka Connect, Apache Flink, DBT
-* **ELT & Transformations**: DBT
-* **Data Processing**: Apache Spark (PySpark)
-* **Orchestration & Automation**: Apache Airflow, Selenium, BeautifulSoup
-* **Data Modeling & Warehousing**: OLTP, OLAP, ETL/ELT Pipeline Design
+* **ETL & Data Ingestion**: `Python scripts`, `Bash scripts`, `Google Cloud Dataflow`, `Apache Kafka` & `Kafka Connect`, `Apache Flink`, `DBT`
+* **ELT & Transformations**: `DBT`
+* **Data Processing**: `Apache Spark` (`PySpark`)
+* **Orchestration & Automation**: `Apache Airflow`, `Selenium`, `BeautifulSoup`
+* **Data Modeling & Warehousing**: `OLTP`, `OLAP`, `ETL/ELT Pipeline Design`
 
 ### 📊 Business Intelligence & Visualization
 
-* **Power BI**: Desktop, Services, Report Server, Power Pivot, DAX, Power Query, Drill-through, Dynamic Tooltip
+* **Power BI**: `Desktop`, `Services`, `Report Server`, `Power Pivot`, `DAX`, `Power Query`, `Drill-through`, `Dynamic Tooltip`
 * **Looker Studio**
 
 ### 🛢️ Databases & Data Platforms
 
-* **SQL-Based**: PostgreSQL, MySQL, SQL Server, Oracle, Google BigQuery (SQL dialect, Partitioning & Clustering, Performance Tuning)
-* **NoSQL**: MongoDB
-* **Cloud Platforms**: Google Cloud Platform (BigQuery)
+* **SQL-Based**: `PostgreSQL`, `MySQL`, `SQL Server`, `Oracle`, `Google BigQuery` (`SQL dialect`, `Partitioning & Clustering`, `Performance Tuning`)
+* **NoSQL**: `MongoDB`
+* **Cloud Platforms**: `Google Cloud Platform` (`BigQuery`)
 
 ### 🧠 Machine Learning & Analytics
 
-* **NLP & ML Libraries**: scikit-learn, TensorFlow
+* **NLP & ML Libraries**: `scikit-learn`, `TensorFlow`
 
 ### 🧠 Collaboration & Project Management
 
-* Trello, Notion
+* `Trello`, `Notion`, `Google Keeps`
 
-### 🖌️ Design & Documentation Tools
+### 🖌️ Design & Documentation Tools 
 
-* Figma, Draw\.io
+* `Figma`, `Draw.io` 
 
 ### 🧾 Office Productivity & Web Analytics
 
-* **Microsoft Office**: Excel (Data Cleaning & Transformation, VBA), Word, PowerPoint
-* **Google Workspace**: Sheets, Docs, Slides
-* **Web Analytics**: Google Analytics 4, SmartLook
+* **Microsoft Office**: `Excel` (`Data Cleaning & Transformation`, `VBA`), `Word`, `PowerPoint`
+* **Google Workspace**: "Sheets", `Docs`, `Slides`
+* **Web Analytics**: `Google Analytics 4`, `Facebook Graph API`, `Tiktok API`, `YouTube Data API`
 
 ### 🔧 Other Tools
 
-* GitHub, VS Code, Jupyter Notebook, DBeaver
+* `GitHub`, `VS Code`, `Jupyter Notebook`, `DBeaver`, `Visual Studio`, `SPSS`
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kina2711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
