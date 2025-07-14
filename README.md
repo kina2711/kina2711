@@ -1,23 +1,79 @@
-Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and you can call me **Rabbit**. I have a deep passion for **data analysis** and **building data systems**, and I currently have nearly **one year of professional experience** in Data Analytics and Data Warehouse (DWH) system development. I am fully committed to this career transition—starting as an entry-level Data Analyst, while simultaneously on the path toward Data Engineering, where I can design and maintain scalable data pipelines and warehouses.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trungkienthai2711) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kienthai2711@gmail.com) 
 
-I studied at **Hanoi University of Pharmacy**. It may seem unrelated to my passion, right? However, during my time there, I developed essential qualities such as **perseverance**, **resilience**, **attention to detail**, and **logical reasoning**—all of which are crucial when working with **data**.
+## 🔍 About Me:
+Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and you can call me **Rabbit**.
+* 🎯 I'm a data-driven professional passionate about transforming raw data into actionable insights that enhance patient care and marketing strategies.
+* 🏥 Specialized in Healthcare and Marketing Analytics, I use data to optimize campaigns, improve customer journeys, and drive business growth.
+* 📊 Strong believer in the power of data visualization and analytics to tell impactful stories.
 
-After completing a rigorous **five-year Bachelor of Pharmacy program**, I built a solid foundation in the field of **pharmaceutical sciences**. However, my true passion lies in **Information Technology**, particularly in **Data Analytics** and **data system architecture**. Recognizing this, I decided to pivot my career toward these fields.
+## What I Work On
 
-# My Skills
+* 🧭 **Customer behavior analysis** in healthcare and marketing
+* 📊 **Dashboard and report design** for strategic decision‑making
+* 🛢️ **Data storage system management** and query optimization
+* 🗺️ **Customer journey mapping** to enhance engagement strategies
+* 📈 **KPI development and monitoring** for performance measurement
+* 🔄 **Data process planning and automation**
+* 💡 **Insight delivery** from healthcare and marketing datasets
 
-**Hard skills**
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
-- **SQL**: SQL Server, MySQL, PostgreSQL (Stored Procedures, Functions, Triggers)  
-- **Data Cleaning & Transformation**: Excel, Python  
-- **Power BI**: Power Pivot, DAX, Power Query, Drill-through, Dynamic Tooltip  
-- **BigQuery**: SQL dialect, partitioning & clustering, performance tuning  
-- **Big Data**: Hadoop ecosystem, Apache Spark (PySpark)  
-- **Data Modeling & Warehousing**: OLTP, OLAP, star & snowflake schemas  
-- **Data Engineering**: ETL/ELT pipeline design, workflow orchestration (Airflow)  
-- **NLP & Machine Learning**: scikit-learn, TensorFlow  
+## My Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### 🧑‍💻 Query & Programming Languages
 
-**Soft skills**
-- Effective communication & data storytelling  
-- Teamwork, collaboration, and presentation  
-- Time management and problem-solving  
+* **Query Languages**: SQL (Server, MySQL, PostgreSQL: Stored Procedures, Functions, Triggers)
+* **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), JavaScript
+* **Web Basics**: HTML, CSS
+
+### ⚙️ Data Engineering & Workflow
+
+* **ETL & Data Ingestion**: Python scripts, Bash scripts, Google Cloud Dataflow, Apache Kafka & Kafka Connect, Apache Flink, DBT
+* **ELT & Transformations**: DBT
+* **Data Processing**: Apache Spark (PySpark)
+* **Orchestration & Automation**: Apache Airflow, Selenium, BeautifulSoup
+* **Data Modeling & Warehousing**: OLTP, OLAP, ETL/ELT Pipeline Design
+
+### 📊 Business Intelligence & Visualization
+
+* **Power BI**: Desktop, Services, Report Server, Power Pivot, DAX, Power Query, Drill-through, Dynamic Tooltip
+* **Looker Studio**
+
+### 🛢️ Databases & Data Platforms
+
+* **SQL-Based**: PostgreSQL, MySQL, SQL Server, Oracle, Google BigQuery (SQL dialect, Partitioning & Clustering, Performance Tuning)
+* **NoSQL**: MongoDB
+* **Cloud Platforms**: Google Cloud Platform (BigQuery)
+
+### 🧠 Machine Learning & Analytics
+
+* **NLP & ML Libraries**: scikit-learn, TensorFlow
+
+### 🧠 Collaboration & Project Management
+
+* Trello, Notion
+
+### 🖌️ Design & Documentation Tools
+
+* Figma, Draw\.io
+
+### 🧾 Office Productivity & Web Analytics
+
+* **Microsoft Office**: Excel (Data Cleaning & Transformation, VBA), Word, PowerPoint
+* **Google Workspace**: Sheets, Docs, Slides
+* **Web Analytics**: Google Analytics 4, SmartLook
+
+### 🔧 Other Tools
+
+* GitHub, VS Code, Jupyter Notebook, DBeaver
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kina2711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kina2711&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kina2711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kina2711&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kina2711&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
