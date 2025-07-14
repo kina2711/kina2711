@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif"
+    alt="Rainbow Divider"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Kien Thai 👋</h1>
 
 <p align="center">
