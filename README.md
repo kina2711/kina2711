@@ -1,4 +1,19 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trungkienthai2711) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kienthai2711@gmail.com) 
+<h1 align="center">Hi there 👋, I'm Kien Thai 👋</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/trungkienthai2711">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kienthai2711@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Muli&weight=900&size=27&pause=500&color=CC9933&center=true&width=800&lines=Data+Analyst+%7C+Data+Engineer+%7C+Analytics+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Looker+Studio;Transforming+Data+into+Actionable+Insights"
+    alt="Typing SVG"/>
+</p>
 
 ## 🔍 About Me:
 Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and you can call me **Rabbit**.
