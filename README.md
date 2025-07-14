@@ -25,9 +25,9 @@
 
 ## 🔍 About Me:
 Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and you can call me **Rabbit**.
-* 🎯 I'm a data-driven professional passionate about transforming raw data into actionable insights that enhance patient care and marketing strategies.
-* 🏥 Specialized in Healthcare and Marketing Analytics, I use data to optimize campaigns, improve customer journeys, and drive business growth.
-* 📊 Strong believer in the power of data visualization and analytics to tell impactful stories.
+* 🎯 I’m a **data-driven** professional passionate about transforming raw data into **actionable insights** that enhance **patient care** and **marketing strategies**.
+* 🏥 Specialized in **Healthcare** and **Marketing Analytics**, I use data to **optimize campaigns**, improve **customer journeys**, and drive **business growth**.
+* 📊 Strong believer in the power of **data visualization** and **analytics** to tell **impactful stories**.
 
 ## What I Work On
 
