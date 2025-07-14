@@ -94,9 +94,29 @@ Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and yo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kina2711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kina2711&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=kina2711&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://github.com/kina2711/scrape_tiktok/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=scrape_tiktok&theme=radical" />
+</a>    
+<a href="https://github.com/kina2711/customer_360/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=customer_360&theme=merko" />
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://github.com/kina2711/customer_sentiment_analysis/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=customer_sentiment_analysis&theme=gruvbox" />
+</a>    
+<a href="https://github.com/kina2711/scrape_job_using_python/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=scrape_job_using_python&theme=dark" />
+</a>
+
+<a href="https://github.com/kina2711/datapipeline_omnichanneltobigquery/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=datapipeline_omnichanneltobigquery&theme=onedark" />
+</a>    
+<a href="https://github.com/kina2711/Banking_Credit_Segment_Exploration/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=Banking_Credit_Segment_Exploration&theme=cobalt" />
+</a>
+
+<a href="https://github.com/kina2711/HR_analytics_project/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=HR_analytics_project&theme=synthwave" />
+</a>
+
