@@ -138,10 +138,16 @@ Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and yo
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=HR_analytics_project&theme=synthwave" alt="HR_analytics_project" />
         </a>
       </td>
-      <td></td>
-      <td></td>
+      <td align="center">
+        <a href="https://github.com/kina2711/ai_agent_with_n8n/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=ai_agent_with_n8n&theme=tokyonight" alt="ai_agent_with_n8n" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/kina2711/my_VBA_code/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=my_VBA_code&theme=algolia" alt="my_VBA_code" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
-
-
