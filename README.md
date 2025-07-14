@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Muli&weight=900&size=27&pause=500&color=CC9933&center=true&width=800&lines=Data+Analyst+%7C+Data+Engineer+%7C+Analytics+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Looker+Studio;Transforming+Data+into+Actionable+Insights"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=25&pause=500&color=CC9933&center=true&width=800&lines=Data+Analyst+%7C+Data+Engineer+%7C+Analytics+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Looker+Studio;Transforming+Data+into+Actionable+Insights"
     alt="Typing SVG"/>
 </p>
 
