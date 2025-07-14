@@ -86,6 +86,7 @@ Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and yo
 
 ### 🔧 Other Tools
 
+* **AI Agent**: `n8n Workflow Automation`
 * `GitHub`, `VS Code`, `Jupyter Notebook`, `DBeaver`, `Visual Studio`, `SPSS`
 
 ## 📊 GitHub Stats:
