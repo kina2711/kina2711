@@ -93,7 +93,7 @@ Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and yo
 <h2>📊 GitHub Stats:</h2>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kina2711&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats.vercel.app/api?username=kina2711&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&card_width=600"
     alt="GitHub Stats"
     width="600"
   />
@@ -109,7 +109,7 @@ Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and yo
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kina2711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=600"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kina2711&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=600"
     alt="Top Languages"
     width="600"
   />
