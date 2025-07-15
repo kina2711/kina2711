@@ -122,51 +122,51 @@ Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and yo
     <tr>
       <td align="center">
         <a href="https://github.com/kina2711/scrape_tiktok/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=scrape_tiktok&theme=gruvbox" alt="scrape_tiktok" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=scrape_tiktok&theme=gruvbox" alt="Tiktok Report with Automated ETL pipeline" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/kina2711/customer_360/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=customer_360&theme=radical" alt="customer_360" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=customer_360&theme=radical" alt="Customer 360 with RFM Model" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/kina2711/customer_sentiment_analysis/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=customer_sentiment_analysis&theme=merko" alt="customer_sentiment_analysis" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=customer_sentiment_analysis&theme=merko" alt="Customer Sentiment Analysis" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/kina2711/scrape_job_using_python/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=scrape_job_using_python&theme=dark" alt="scrape_job_using_python" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=scrape_job_using_python&theme=dark" alt="Scrape IT Job Using Python" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/kina2711/datapipeline_omnichanneltobigquery/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=datapipeline_omnichanneltobigquery&theme=onedark" alt="datapipeline_omnichanneltobigquery" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=datapipeline_omnichanneltobigquery&theme=onedark" alt="Mini Project About Data Pipeline from OmniChannel to Google BigQuery" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/kina2711/Banking_Credit_Segment_Exploration/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=Banking_Credit_Segment_Exploration&theme=cobalt" alt="Banking_Credit_Segment_Exploration" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=Banking_Credit_Segment_Exploration&theme=cobalt" alt="Banking Credit Segment Exploration" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/kina2711/HR_analytics_project/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=HR_analytics_project&theme=synthwave" alt="HR_analytics_project" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=HR_analytics_project&theme=synthwave" alt="HR Analytics" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/kina2711/ai_agent_with_n8n/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=ai_agent_with_n8n&theme=tokyonight" alt="ai_agent_with_n8n" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=ai_agent_with_n8n&theme=tokyonight" alt="AI Agent with n8n Automation" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/kina2711/my_VBA_code/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=my_VBA_code&theme=algolia" alt="my_VBA_code" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kina2711&repo=my_VBA_code&theme=algolia" alt="VBA code to process Excel data" />
         </a>
       </td>
     </tr>
