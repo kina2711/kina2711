@@ -90,6 +90,20 @@ Hello everyone! My name is **Kien**, my full name is **Thai Trung Kien**, and yo
 * **AI Agent**: `n8n Workflow Automation`
 * `GitHub`, `VS Code`, `Jupyter Notebook`, `DBeaver`, `Visual Studio`, `SPSS`
 
+### Contributions
+
+<div align="center" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kina2711/kina2711/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kina2711/kina2711/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/kina2711/kina2711/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
+  </picture>
+</div>
+
+<div align="center" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kina2711&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
+</div>
+
 <h2>📊 GitHub Stats:</h2>
 <p align="center">
   <img
