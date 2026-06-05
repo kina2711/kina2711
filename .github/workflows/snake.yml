@@ -2,12 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Chạy tự động mỗi 24 giờ
     - cron: "0 0 * * *" 
   workflow_dispatch:
   push:
     branches:
     - main
+
+# Thêm quyền này để cho phép Action push file lên repo
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -23,8 +26,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Đã nâng cấp lên v4 để fix cảnh báo Node.js
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
