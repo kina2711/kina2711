@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Kien Thai Rabbit Data system signature">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#F8FAFC"/><stop offset=".62" stop-color="#EFF6FF"/><stop offset="1" stop-color="#DBEAFE"/></linearGradient>
+    <linearGradient id="signal" x1="0" x2="1"><stop stop-color="#D97706"/><stop offset=".5" stop-color="#0284C7"/><stop offset="1" stop-color="#059669"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-width=".7" opacity=".25"/></pattern>
+  </defs>
+  <path d="M0 18 18 0h1164l18 18v184l-18 18H18L0 202Z" fill="url(#bg)" stroke="#CBD5E1"/>
+  <path d="M0 18 18 0h1164l18 18v184l-18 18H18L0 202Z" fill="url(#grid)"/>
+  <path d="M28 24h300M28 196h1144" stroke="url(#signal)" stroke-width="2"/>
+  <text x="42" y="58" fill="#64748B" font-family="IBM Plex Mono,Consolas,monospace" font-size="13" letter-spacing="2">SYSTEM SIGNATURE // RABBIT.DATA</text>
+  <text x="42" y="104" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="800">KIEN THAI</text>
+  <text x="42" y="135" fill="#B45309" font-family="IBM Plex Mono,Consolas,monospace" font-size="17" font-weight="700">PHARMACIST BY TRAINING · DATA BUILDER BY PRACTICE</text>
+  <text x="42" y="169" fill="#475569" font-family="IBM Plex Mono,Consolas,monospace" font-size="14">SOURCE → MODEL → TEST → OBSERVE → DECIDE</text>
+  <g transform="translate(690 36)" font-family="IBM Plex Mono,Consolas,monospace" font-size="12">
+    <rect width="280" height="128" rx="6" fill="#FFFFFF" stroke="#CBD5E1"/>
+    <text x="18" y="27" fill="#64748B">rabbit@data-lab:~$ status</text>
+    <text x="18" y="53" fill="#0284C7">branch</text><text x="105" y="53" fill="#0F172A">main</text>
+    <text x="18" y="75" fill="#0284C7">quality</text><text x="105" y="75" fill="#059669">passing</text>
+    <text x="18" y="97" fill="#0284C7">mode</text><text x="105" y="97" fill="#B45309">build_and_learn</text>
+    <text x="18" y="119" fill="#0284C7">contact</text><text x="105" y="119" fill="#0F172A">open</text>
+  </g>
+  <g transform="translate(1010 35)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M62 42 42 5c-5-9 1-13 9-6l25 26M90 42l20-37c5-9-1-13-9-6L76 25" stroke="#0284C7" stroke-width="4"/>
+    <path d="M43 52c0-24 65-24 65 0v43c0 24-65 24-65 0Z" stroke="#D97706" stroke-width="4"/>
+    <circle cx="62" cy="68" r="4" fill="#059669" stroke="none"/><circle cx="90" cy="68" r="4" fill="#059669" stroke="none"/>
+    <path d="M70 82h12m-6 0v8m-16 5h32" stroke="#7C3AED" stroke-width="3"/>
+    <path d="M43 79H20v28H3m105-28h23v28h17M76 111v34h-26m26 0h27" stroke="#0284C7" stroke-width="2"/>
+    <circle cx="3" cy="107" r="5" fill="#0284C7" stroke="none"/><circle cx="148" cy="107" r="5" fill="#0284C7" stroke="none"/><circle cx="50" cy="145" r="5" fill="#059669" stroke="none"/><circle cx="103" cy="145" r="5" fill="#059669" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Kien Thai — Middle Analytics Engineer</title>
+  <desc id="desc">Building tested data products and bridging healthcare, marketing and retail data with business decisions.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1E293B" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="role" x1="0" x2="1">
+      <stop stop-color="#38BDF8"/><stop offset="1" stop-color="#4B8DF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="#0B1220"/>
+  <rect width="1200" height="360" fill="url(#grid)" opacity=".55"/>
+  <circle cx="1050" cy="72" r="5" fill="#F5B02E"/>
+  <path d="M1055 72h100" stroke="#38BDF8" stroke-width="2" opacity=".55"/>
+  <circle cx="170" cy="322" r="120" fill="#172554" opacity=".25"/>
+  <rect x="54" y="42" width="6" height="96" rx="3" fill="url(#role)"/>
+  <text x="82" y="112" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="800">Kien Thai</text>
+  <text x="82" y="168" fill="url(#role)" font-family="IBM Plex Mono,Consolas,monospace" font-size="30" letter-spacing="2">MIDDLE ANALYTICS ENGINEER</text>
+  <circle cx="91" cy="231" r="5" fill="#F5B02E"/>
+  <text x="112" y="239" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">Building tested data products from source to decision</text>
+  <circle cx="91" cy="278" r="5" fill="#34D399"/>
+  <text x="112" y="286" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">Bridging healthcare, marketing &amp; retail data with business impact</text>
+  <text x="1122" y="326" text-anchor="end" fill="#64748B" font-family="IBM Plex Mono,Consolas,monospace" font-size="16">rabbit.build()</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="Community and Beyond">
+  <defs><linearGradient id="p" x1="0" x2="1"><stop stop-color="#111827"/><stop offset=".72" stop-color="#0B1220"/><stop offset="1" stop-color="#3F1D2E"/></linearGradient><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#334155" stroke-width=".7" opacity=".28"/></pattern></defs>
+  <path d="M0 14 18 0h1160l22 22v76l-14 14H22L0 90Z" fill="url(#p)"/><path d="M0 14 18 0h1160l22 22v76l-14 14H22L0 90Z" fill="url(#g)"/>
+  <path d="M24 88V27h4v61zm0 0h340" stroke="#F5B02E" stroke-width="2"/>
+  <text x="48" y="32" fill="#64748B" font-family="IBM Plex Mono,Consolas,monospace" font-size="13" letter-spacing="2">RABBIT.DATA SYSTEM // MODULE 05</text>
+  <text x="48" y="77" fill="#F5B02E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">COMMUNITY &amp; BEYOND</text>
+  <g transform="translate(1010 18)" stroke="#A78BFA" stroke-width="2" fill="#0B1220"><path d="m70 28-48 35m48-35 55 34M70 28V0M22 63h103"/><circle cx="70" cy="28" r="13" fill="#F5B02E" stroke="none"/><circle cx="70" cy="0" r="9"/><circle cx="22" cy="63" r="11"/><circle cx="125" cy="62" r="11"/></g>
+  <text x="950" y="100" fill="#94A3B8" font-family="monospace" font-size="12">SHARE KNOWLEDGE → GROW TOGETHER</text>
+</svg>

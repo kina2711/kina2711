@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="Featured Builds">
+  <defs><linearGradient id="p" x1="0" x2="1"><stop stop-color="#111827"/><stop offset=".72" stop-color="#0B1220"/><stop offset="1" stop-color="#431407"/></linearGradient><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#334155" stroke-width=".7" opacity=".28"/></pattern></defs>
+  <path d="M0 14 18 0h1160l22 22v76l-14 14H22L0 90Z" fill="url(#p)"/><path d="M0 14 18 0h1160l22 22v76l-14 14H22L0 90Z" fill="url(#g)"/>
+  <path d="M24 88V27h4v61zm0 0h285" stroke="#F5B02E" stroke-width="2"/>
+  <text x="48" y="32" fill="#64748B" font-family="IBM Plex Mono,Consolas,monospace" font-size="13" letter-spacing="2">RABBIT.DATA SYSTEM // MODULE 04</text>
+  <text x="48" y="77" fill="#F5B02E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">FEATURED BUILDS</text>
+  <g transform="translate(958 25)" fill="#0B1220" stroke-width="2"><rect width="70" height="52" stroke="#38BDF8"/><rect x="82" width="70" height="52" stroke="#A78BFA"/><rect x="164" width="70" height="52" stroke="#34D399"/><path d="M12 14h45M12 25h31M12 36h38M94 14h45M94 25h31M94 36h38M176 14h45M176 25h31M176 36h38" stroke="#64748B"/></g>
+  <text x="958" y="93" fill="#94A3B8" font-family="monospace" font-size="12">BUILD · TEST · SHIP · LEARN</text>
+</svg>
