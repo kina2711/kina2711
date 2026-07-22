@@ -61,7 +61,7 @@ rabbit.data_lab:
       <td align="center" valign="top" width="18%">
         <img src="https://img.shields.io/badge/Apr_2025_%E2%80%93-Present-2EA44F?style=flat-square" height="18" alt="April 2025 to present" /><br /><br />
         <img src="./assets/experience/timeline/xom-data.webp" width="150" alt="Xóm Data logo" /><br /><br />
-        <a href="https://www.facebook.com/xomdata"><b>Xóm Data</b></a><br />
+        <a href="https://www.facebook.com/groups/xomdata"><b>Xóm Data</b></a><br />
         <sub>Moderator &amp; Admin</sub>
       </td>
       <td align="center" valign="middle" width="2%">➜</td>
