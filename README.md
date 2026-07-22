@@ -54,36 +54,36 @@ rabbit.data_lab:
       <td align="center" valign="top" width="18%">
         <img src="https://img.shields.io/badge/Jan_2025_%E2%80%93-Jul_2025-64748B?style=flat-square" height="18" alt="January 2025 to July 2025" /><br /><br />
         <img src="./assets/experience/timeline/phuong-dong.webp" width="150" alt="Phuong Dong Hospital logo" /><br /><br />
-        <b>Phuong Dong Hospital</b><br />
-        <sub>Data Analyst</sub>
+        <b>Phuong Dong<br />Hospital</b><br />
+        <sub>Data Analyst<br />&nbsp;</sub>
       </td>
       <td align="center" valign="middle" width="2%">➜</td>
       <td align="center" valign="top" width="18%">
         <img src="https://img.shields.io/badge/Apr_2025_%E2%80%93-Present-2EA44F?style=flat-square" height="18" alt="April 2025 to present" /><br /><br />
         <img src="./assets/experience/timeline/xom-data.webp" width="150" alt="Xóm Data logo" /><br /><br />
-        <a href="https://www.facebook.com/xomdata"><b>Xóm Data</b></a><br />
-        <sub>Moderator &amp; Admin</sub>
+        <a href="https://www.facebook.com/xomdata"><b>Xóm Data<br />&nbsp;</b></a><br />
+        <sub>Moderator &amp; Admin<br />&nbsp;</sub>
       </td>
       <td align="center" valign="middle" width="2%">➜</td>
       <td align="center" valign="top" width="18%">
         <img src="https://img.shields.io/badge/May_2025_%E2%80%93-Jul_2025-64748B?style=flat-square" height="18" alt="May 2025 to July 2025" /><br /><br />
         <img src="./assets/experience/timeline/comeeco.webp" width="150" alt="COMEeco logo" /><br /><br />
-        <b>COMEeco</b><br />
-        <sub>BI Developer &amp; Excel Trainer</sub>
+        <b>COMEeco<br />&nbsp;</b><br />
+        <sub>BI Developer &amp; Excel<br />Trainer</sub>
       </td>
       <td align="center" valign="middle" width="2%">➜</td>
       <td align="center" valign="top" width="18%">
         <img src="https://img.shields.io/badge/Sep_2025_%E2%80%93-Nov_2025-64748B?style=flat-square" height="18" alt="September 2025 to November 2025" /><br /><br />
         <img src="./assets/experience/timeline/mevis.webp" width="150" alt="Mevis Healthcare logo" /><br /><br />
-        <b>Mevis Healthcare</b><br />
-        <sub>Analytics Engineer</sub>
+        <b>Mevis Healthcare<br />&nbsp;</b><br />
+        <sub>Analytics Engineer<br />&nbsp;</sub>
       </td>
       <td align="center" valign="middle" width="2%">➜</td>
       <td align="center" valign="top" width="18%">
         <img src="https://img.shields.io/badge/Nov_2025_%E2%80%93-Present-2EA44F?style=flat-square" height="18" alt="November 2025 to present" /><br /><br />
         <img src="./assets/experience/timeline/vmt.webp" width="150" alt="VMT Holdings logo" /><br /><br />
-        <b>VMT Holdings</b><br />
-        <sub>Data Analytics Engineer</sub>
+        <b>VMT Holdings<br />&nbsp;</b><br />
+        <sub>Data Analytics Engineer<br />&nbsp;</sub>
       </td>
     </tr>
   </table>
