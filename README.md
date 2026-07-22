@@ -52,40 +52,36 @@ rabbit.data_lab:
   <table width="100%">
     <tr>
       <td align="center" valign="top" width="18%">
-        <sub>Jan 2025 – Jul 2025</sub><br /><br />
-        <img src="./assets/experience/phuong-dong.png" width="72" alt="Phuong Dong Hospital logo" /><br /><br />
+        <img src="https://img.shields.io/badge/Jan_2025_%E2%80%93-Jul_2025-64748B?style=flat-square" height="18" alt="January 2025 to July 2025" /><br /><br />
+        <img src="./assets/experience/timeline/phuong-dong.webp" width="150" alt="Phuong Dong Hospital logo" /><br /><br />
         <b>Phuong Dong Hospital</b><br />
         <sub>Data Analyst</sub>
       </td>
       <td align="center" valign="middle" width="2%">➜</td>
       <td align="center" valign="top" width="18%">
-        <sub>Apr 2025 – </sub><img src="https://img.shields.io/badge/Present-2EA44F?style=flat-square" height="14" alt="Present" /><br /><br />
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/experience/xom-data-dark.webp" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/experience/xom-data-light.webp" />
-          <img src="./assets/experience/xom-data-light.webp" width="72" alt="Xóm Data logo" />
-        </picture><br /><br />
+        <img src="https://img.shields.io/badge/Apr_2025_%E2%80%93-Present-2EA44F?style=flat-square" height="18" alt="April 2025 to present" /><br /><br />
+        <img src="./assets/experience/timeline/xom-data.webp" width="150" alt="Xóm Data logo" /><br /><br />
         <a href="https://www.facebook.com/xomdata"><b>Xóm Data</b></a><br />
         <sub>Moderator &amp; Admin</sub>
       </td>
       <td align="center" valign="middle" width="2%">➜</td>
       <td align="center" valign="top" width="18%">
-        <sub>May 2025 – Jul 2025</sub><br /><br />
-        <img src="./assets/experience/comeeco.webp" width="72" alt="COMEeco logo" /><br /><br />
+        <img src="https://img.shields.io/badge/May_2025_%E2%80%93-Jul_2025-64748B?style=flat-square" height="18" alt="May 2025 to July 2025" /><br /><br />
+        <img src="./assets/experience/timeline/comeeco.webp" width="150" alt="COMEeco logo" /><br /><br />
         <b>COMEeco</b><br />
         <sub>BI Developer &amp; Excel Trainer</sub>
       </td>
       <td align="center" valign="middle" width="2%">➜</td>
       <td align="center" valign="top" width="18%">
-        <sub>Sep 2025 – Nov 2025</sub><br /><br />
-        <img src="./assets/experience/mevis.png" width="72" alt="Mevis Healthcare logo" /><br /><br />
+        <img src="https://img.shields.io/badge/Sep_2025_%E2%80%93-Nov_2025-64748B?style=flat-square" height="18" alt="September 2025 to November 2025" /><br /><br />
+        <img src="./assets/experience/timeline/mevis.webp" width="150" alt="Mevis Healthcare logo" /><br /><br />
         <b>Mevis Healthcare</b><br />
         <sub>Analytics Engineer</sub>
       </td>
       <td align="center" valign="middle" width="2%">➜</td>
       <td align="center" valign="top" width="18%">
-        <sub>Nov 2025 – </sub><img src="https://img.shields.io/badge/Present-2EA44F?style=flat-square" height="14" alt="Present" /><br /><br />
-        <img src="./assets/experience/vmt.png" width="72" alt="VMT Holdings logo" /><br /><br />
+        <img src="https://img.shields.io/badge/Nov_2025_%E2%80%93-Present-2EA44F?style=flat-square" height="18" alt="November 2025 to present" /><br /><br />
+        <img src="./assets/experience/timeline/vmt.webp" width="150" alt="VMT Holdings logo" /><br /><br />
         <b>VMT Holdings</b><br />
         <sub>Data Analytics Engineer</sub>
       </td>
@@ -285,11 +281,39 @@ flowchart TB
 
 <img src="./assets/title-community.svg" width="100%" alt="Community and Beyond" />
 
-<p align="center">
-  🧑‍🤝‍🧑 <b>Moderator &amp; Admin at Xóm Data Vietnam</b> · 100,000+ members<br />
-  🧪 Maintaining a free SQL Server practice environment with 14 domain schemas<br />
-  🎓 Hanoi University of Pharmacy · Google DA, Advanced DA &amp; BI · HackerRank SQL Advanced
-</p>
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <a href="https://www.facebook.com/xomdata">
+        <img src="./assets/community/xom-data-community.webp" width="100%" alt="Xóm Data Vietnam Facebook community with more than 102,000 members" />
+      </a>
+      <br />
+      <a href="https://www.facebook.com/xomdata"><b>XÓM DATA VIETNAM</b></a><br />
+      <sub>Moderator &amp; Admin<br />Vietnam data community</sub><br /><br />
+      <img src="https://img.shields.io/badge/Community-100K%2B_Members-F5B02E?style=flat-square" alt="Community of more than 100,000 members" />
+      <br /><br />
+      <sub>Moderation · CV reviews<br />Xóm Jobs · Dataset platform</sub>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <img src="./assets/community/sql-lab.svg" width="100%" alt="SQL Server community practice lab" />
+      <br />
+      <b>SQL PRACTICE LAB</b><br />
+      <sub>Free, self-hosted<br />learning environment</sub><br /><br />
+      <img src="https://img.shields.io/badge/SQL_Server-14_Domain_Schemas-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Fourteen SQL Server domain schemas" />
+      <br /><br />
+      <sub>Hands-on SQL · Business domains<br />Community access</sub>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <img src="./assets/community/learning-path.svg" width="100%" alt="Kien's learning path from pharmacy to data engineering" />
+      <br />
+      <b>PHARMACY → DATA</b><br />
+      <sub>Hanoi University of<br />Pharmacy</sub><br /><br />
+      <img src="https://img.shields.io/badge/Google-DA_%C2%B7_Advanced_DA_%C2%B7_BI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Data Analytics, Advanced Data Analytics and Business Intelligence" />
+      <br /><br />
+      <sub>Google Career Certificates<br />HackerRank SQL Advanced</sub>
+    </td>
+  </tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 

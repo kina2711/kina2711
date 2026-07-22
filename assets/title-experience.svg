@@ -4,6 +4,21 @@
   <path d="M24 88V27h4v61zm0 0h388" stroke="#F5B02E" stroke-width="2"/>
   <text x="48" y="32" fill="#64748B" font-family="IBM Plex Mono,Consolas,monospace" font-size="13" letter-spacing="2">RABBIT.DATA SYSTEM // MODULE 02</text>
   <text x="48" y="77" fill="#F5B02E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">PROFESSIONAL EXPERIENCE</text>
-  <g transform="translate(930 52)" stroke="#38BDF8" stroke-width="2" fill="#0B1220"><path d="M0 0h210"/><circle cx="0" r="7"/><circle cx="52" r="7"/><circle cx="105" r="7"/><circle cx="158" r="7"/><circle cx="210" r="7"/><path d="m45-5 7 5-7 5m53-10 7 5-7 5m53-10 7 5-7 5m45-10 7 5-7 5" fill="none"/></g>
+  <g transform="translate(930 52)" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 0h196" opacity=".8"/>
+    <g fill="#0B1220">
+      <circle cx="0" cy="0" r="7"/>
+      <circle cx="52" cy="0" r="7"/>
+      <circle cx="105" cy="0" r="7"/>
+      <circle cx="158" cy="0" r="7"/>
+      <circle cx="210" cy="0" r="7"/>
+    </g>
+    <g fill="none">
+      <path d="m24-4 5 4-5 4"/>
+      <path d="m76-4 5 4-5 4"/>
+      <path d="m129-4 5 4-5 4"/>
+      <path d="m181-4 5 4-5 4"/>
+    </g>
+  </g>
   <text x="930" y="84" fill="#94A3B8" font-family="monospace" font-size="12">DA → AE → DATA PRODUCTS</text>
 </svg>
