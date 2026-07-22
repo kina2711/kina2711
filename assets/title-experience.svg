@@ -4,21 +4,35 @@
   <path d="M24 88V27h4v61zm0 0h388" stroke="#F5B02E" stroke-width="2"/>
   <text x="48" y="32" fill="#64748B" font-family="IBM Plex Mono,Consolas,monospace" font-size="13" letter-spacing="2">RABBIT.DATA SYSTEM // MODULE 02</text>
   <text x="48" y="77" fill="#F5B02E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">PROFESSIONAL EXPERIENCE</text>
-  <g transform="translate(930 52)" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M7 0h196" opacity=".8"/>
-    <g fill="#0B1220">
-      <circle cx="0" cy="0" r="7"/>
-      <circle cx="52" cy="0" r="7"/>
-      <circle cx="105" cy="0" r="7"/>
-      <circle cx="158" cy="0" r="7"/>
-      <circle cx="210" cy="0" r="7"/>
+  <g transform="translate(824 30)" font-family="IBM Plex Mono,Consolas,monospace" font-size="12" font-weight="700">
+    <g>
+      <rect x="0" y="0" width="48" height="30" rx="6" fill="#0B1220" stroke="#38BDF8" stroke-width="2"/>
+      <text x="24" y="20" text-anchor="middle" fill="#38BDF8">DA</text>
     </g>
-    <g fill="none">
-      <path d="m24-4 5 4-5 4"/>
-      <path d="m76-4 5 4-5 4"/>
-      <path d="m129-4 5 4-5 4"/>
-      <path d="m181-4 5 4-5 4"/>
+    <g fill="#38BDF8">
+      <rect x="54" y="14" width="24" height="2" rx="1"/>
+      <path d="m78 9 9 6-9 6Z"/>
+    </g>
+    <g>
+      <rect x="94" y="0" width="48" height="30" rx="6" fill="#0B1220" stroke="#A78BFA" stroke-width="2"/>
+      <text x="118" y="20" text-anchor="middle" fill="#A78BFA">AE</text>
+    </g>
+    <g fill="#A78BFA">
+      <rect x="148" y="14" width="24" height="2" rx="1"/>
+      <path d="m172 9 9 6-9 6Z"/>
+    </g>
+    <g>
+      <rect x="188" y="0" width="48" height="30" rx="6" fill="#0B1220" stroke="#34D399" stroke-width="2"/>
+      <text x="212" y="20" text-anchor="middle" fill="#34D399">DE</text>
+    </g>
+    <g fill="#34D399">
+      <rect x="242" y="14" width="24" height="2" rx="1"/>
+      <path d="m266 9 9 6-9 6Z"/>
+    </g>
+    <g>
+      <rect x="282" y="0" width="90" height="30" rx="6" fill="#F5B02E" stroke="#F5B02E" stroke-width="2"/>
+      <text x="327" y="20" text-anchor="middle" fill="#0B0F19">PRODUCT</text>
     </g>
   </g>
-  <text x="930" y="84" fill="#94A3B8" font-family="monospace" font-size="12">DA → AE → DATA PRODUCTS</text>
+  <text x="824" y="82" fill="#94A3B8" font-family="monospace" font-size="11" letter-spacing="1">ANALYZE · ENGINEER · BUILD · DELIVER</text>
 </svg>
