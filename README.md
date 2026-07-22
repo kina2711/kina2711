@@ -295,7 +295,11 @@ flowchart TB
 
 <img src="./assets/title-stats.svg" width="100%" alt="Activity and Stats" />
 
-<img src="./assets/generated/rabbit-telemetry.svg" width="100%" alt="Self-generated GitHub activity, repository and language telemetry for Kien" />
+<img
+  src="https://kina2711-telemetry.vercel.app/telemetry.svg"
+  width="100%"
+  alt="Live GitHub activity, repository and language telemetry for Kien"
+/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kina2711/kina2711/output/github-contribution-grid-snake-dark.svg" />
