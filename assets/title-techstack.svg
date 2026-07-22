@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="Tech Stack and Ecosystem">
+  <defs><linearGradient id="p" x1="0" x2="1"><stop stop-color="#111827"/><stop offset=".72" stop-color="#0B1220"/><stop offset="1" stop-color="#064E3B"/></linearGradient><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#334155" stroke-width=".7" opacity=".28"/></pattern></defs>
+  <path d="M0 14 18 0h1160l22 22v76l-14 14H22L0 90Z" fill="url(#p)"/><path d="M0 14 18 0h1160l22 22v76l-14 14H22L0 90Z" fill="url(#g)"/>
+  <path d="M24 88V27h4v61zm0 0h357" stroke="#F5B02E" stroke-width="2"/>
+  <text x="48" y="32" fill="#64748B" font-family="IBM Plex Mono,Consolas,monospace" font-size="13" letter-spacing="2">RABBIT.DATA SYSTEM // MODULE 03</text>
+  <text x="48" y="77" fill="#F5B02E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">TECH STACK &amp; ECOSYSTEM</text>
+  <g transform="translate(965 17)" fill="none" stroke-width="2"><path d="m38 0 33 19v38L38 76 5 57V19Z" stroke="#38BDF8"/><path d="m112 0 33 19v38l-33 19-33-19V19Z" stroke="#A78BFA"/><path d="m186 0 33 19v38l-33 19-33-19V19Z" stroke="#34D399"/><text x="38" y="43" text-anchor="middle" fill="#38BDF8" stroke="none" font-family="monospace" font-size="12">INGEST</text><text x="112" y="43" text-anchor="middle" fill="#A78BFA" stroke="none" font-family="monospace" font-size="12">MODEL</text><text x="186" y="43" text-anchor="middle" fill="#34D399" stroke="none" font-family="monospace" font-size="12">SERVE</text></g>
+</svg>

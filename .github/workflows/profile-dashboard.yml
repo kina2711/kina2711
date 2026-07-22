@@ -1,0 +1,41 @@
+name: Refresh Rabbit Telemetry
+
+on:
+  schedule:
+    - cron: "23 19 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/generate-profile-dashboard.mjs"
+      - ".github/workflows/profile-dashboard.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Compile profile telemetry
+        run: node .github/scripts/generate-profile-dashboard.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit generated dashboard
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/generated/rabbit-telemetry.svg
+          if git commit -m "chore: refresh Rabbit telemetry"; then
+            git push
+          fi

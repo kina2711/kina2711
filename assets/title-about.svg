@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="About Me">
+  <defs><linearGradient id="p" x1="0" x2="1"><stop stop-color="#111827"/><stop offset=".72" stop-color="#0B1220"/><stop offset="1" stop-color="#172554"/></linearGradient><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#334155" stroke-width=".7" opacity=".28"/></pattern></defs>
+  <path d="M0 14 18 0h1160l22 22v76l-14 14H22L0 90Z" fill="url(#p)"/>
+  <path d="M0 14 18 0h1160l22 22v76l-14 14H22L0 90Z" fill="url(#g)"/>
+  <path d="M24 88V27h4v61zm0 0h218" stroke="#F5B02E" stroke-width="2"/>
+  <text x="48" y="32" fill="#64748B" font-family="IBM Plex Mono,Consolas,monospace" font-size="13" letter-spacing="2">RABBIT.DATA SYSTEM // MODULE 01</text>
+  <text x="48" y="77" fill="#F5B02E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">ABOUT ME</text>
+  <g transform="translate(1030 22)" fill="none" stroke="#38BDF8" stroke-width="2"><circle cx="46" cy="32" r="22"/><circle cx="38" cy="28" r="3" fill="#38BDF8"/><circle cx="54" cy="28" r="3" fill="#38BDF8"/><path d="M37 40q9 8 18 0M30 15 22 2q15 0 20 9M62 15 70 2q-15 0-20 9"/></g>
+  <circle cx="1145" cy="22" r="4" fill="#34D399"/><text x="1160" y="27" fill="#94A3B8" font-family="monospace" font-size="12">ONLINE</text>
+</svg>
